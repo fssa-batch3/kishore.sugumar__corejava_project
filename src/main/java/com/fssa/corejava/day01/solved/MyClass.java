@@ -1,4 +1,4 @@
-package day01.solved;
+package com.fssa.corejava.day01.solved;
 
 //public class MyClass {
 //    // Declare an instance variable
